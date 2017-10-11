@@ -3,9 +3,9 @@ Bash shell script to checks used space on filesystems and reports before OS bein
 
 ## Requirements
 
-Grep
-Awk
-Sed
+- Grep
+- Awk
+- Sed
 
 ## Variables
 
